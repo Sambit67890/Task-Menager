@@ -6,7 +6,7 @@ import FilterTask from './components/FilterTask';
 function App() {
   return (
     <>
-      <h1>Task Menager</h1>
+      <center><h1>Task Menager</h1></center>
       <AddTask/>
       <FilterTask/>
       <Tasklist/>
